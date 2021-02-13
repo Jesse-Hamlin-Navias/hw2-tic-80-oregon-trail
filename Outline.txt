@@ -1,0 +1,10 @@
+1350 mi, 10 turns
+
+continue (fast, 150) 
+hunt (medium, 120) 
+stop at next dungeon (slow, 90)
+
+no characters
+
+scroll of necromancy
++1 to party
