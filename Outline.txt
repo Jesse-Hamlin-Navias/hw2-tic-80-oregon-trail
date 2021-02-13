@@ -8,3 +8,20 @@ no characters
 
 scroll of necromancy
 +1 to party
+
+ENCOUNTERS
+Merchants           |  20%
+Bandits             |  20%
+Griffon             |  5%
+Dragon              |  5%
+Ruins               |  18%
+Tavern              |  18%
+Illusion Tavern     |  7%
+Spidermen           |  7%
+
+DUNGEON
+1 character dies(have to leave) 20%
+some weaponry 30%
+food 50%
+
+next room 50%?
